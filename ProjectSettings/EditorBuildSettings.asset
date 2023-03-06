@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 322572cf2edbb164a845db64b39260c6
+  - enabled: 1
+    path: Assets/Scenes/Ltable.unity
+    guid: 2061bbe1b83c810428db275a72bdfca6
+  - enabled: 1
+    path: Assets/Scenes/Seviyeler.unity
+    guid: 7973b7ea48c5e3a4fb616600cda6cb2c
+  - enabled: 1
+    path: Assets/Scenes/Seviyeler2.unity
+    guid: 36e0fc1ae4985dc4f8b4ff64dd6a1ec4
+  - enabled: 1
+    path: Assets/Scenes/seviye_1.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/seviye_2.unity
+    guid: af41547161b72ef409326ce3b7c396a2
+  - enabled: 1
+    path: Assets/Scenes/seviye_3.unity
+    guid: 19ce664948b64f040826177ace6790a4
+  - enabled: 1
+    path: Assets/Scenes/seviye_4.unity
+    guid: 1909647d4d15188458b7fe6f3c294333
+  - enabled: 1
+    path: Assets/Scenes/seviye_5.unity
+    guid: 6184b00aed1373344aec652a48b32243
+  - enabled: 1
+    path: Assets/Scenes/seviye_6.unity
+    guid: bbdf2d205118c8c46b1259fdc68c1224
+  - enabled: 1
+    path: Assets/Scenes/seviye_7.unity
+    guid: 04aaf7577a0f07f469e875bac854a649
+  - enabled: 1
+    path: Assets/Scenes/seviye_8.unity
+    guid: aa18e04fe25657348822ae9b6e399590
+  - enabled: 1
+    path: Assets/Scenes/seviye_9.unity
+    guid: 72a223545e0b00b4ba9796322c4c506a
+  - enabled: 1
+    path: Assets/Scenes/seviye_10.unity
+    guid: 36263bee2fa6697419a8a7fe42056a1b
+  - enabled: 1
+    path: Assets/Scenes/seviye_11.unity
+    guid: 09544840c3504754caa45951c386293f
+  - enabled: 1
+    path: Assets/Scenes/seviye_12.unity
+    guid: fec9d5930858fc94cb38fce7bfc49199
+  - enabled: 1
+    path: Assets/Scenes/seviye_13.unity
+    guid: bfa21011f800ca0489fed8c4c8a5362a
+  - enabled: 1
+    path: Assets/Scenes/seviye_14.unity
+    guid: 94a5ef89a852727459cd5407c13f3d18
+  - enabled: 1
+    path: Assets/Scenes/seviye_15.unity
+    guid: 4c8e58d7be618dc4197bef5c7bb6ad34
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 3d1479bb72644474b9a3af0182455e4e, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: ce35714670b7f814e90f75a8ba1be868, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0e6c50088e02b1749a57d8fca1d6a477, type: 2}
